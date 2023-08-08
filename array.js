@@ -13,7 +13,7 @@ const arr2 = [15, 25, 35, 45, 55, 65, 75, 85, 95];
 
 // console.log(arr.splice(3, 3));
 
-console.log(arr.splice(2, 3, 88, 98));
+// console.log(arr.splice(2, 3, 88, 98));
 
-console.log(arr);
+// console.log(arr);
 
